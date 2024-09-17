@@ -8,7 +8,6 @@ List<Book> books = new List<Book>()
     new Book(3,"Kumarbaz","Bir Öğretmenin hayatı",210,"2009 Ocak"),
     new Book(4, "Araba Sevdası","Arabayla alakası olmayan Kitap",180,"1999 Ocak"),
     new Book(5,"Ateşten Gömlek","Kurtulu savaşını anlatan kitap",120,"2001 Eylül"),
-    new Book(6,"28 Şampiyonluk","Hayal ürünüdür",350,"1907 Ocak "),
 };
 
 
